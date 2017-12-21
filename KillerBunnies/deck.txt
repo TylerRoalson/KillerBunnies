@@ -1,0 +1,112 @@
+001 – Blue Congenial
+002 – Blue Gleeful
+003 – Blue Lumbering
+004 – Blue Sinister
+005 – Blue Timid
+006 – Green Congenial
+007 – Green Gleeful
+008 – Green Lumbering
+009 – Green Sinister
+010 – Green Timid
+011 – Orange Congenial
+012 – Orange Gleeful
+013 – Orange Lumbering
+014 – Orange Sinister
+015 – Orange Timid
+016 – Choose A Carrot
+017 – Choose A Carrot
+018 – Choose A Carrot
+019 – Choose A Carrot
+020 – Choose A Carrot
+021 – Choose 2 Carrots
+022 – Choose 2 Carrots
+023 – Choose 2 Carrots
+031 – Weapon Level 01 – Kitchen Whisk
+032 – Weapon Level 02 – Green Gelatin (with Evil Pineapple Chunks)
+033 – Weapon Level 03 – Ice Pick
+034 – Weapon Level 04 – Butcher’s Cleaver
+035 – Weapon Level 04 – Food Processor
+036 – Weapon Level 05 – Boiling Tar
+037 – Weapon Level 05 – Roaches
+038 – Weapon Level 06 – Bow & Arrow
+039 – Weapon Level 06 – Chain Saw
+040 – Weapon Level 07 – Guillotine
+041 – Weapon Level 07 – Sword
+042 – Weapon Level 08 – Flame Thrower
+043 – Weapon Level 08 – Torus Ring
+044 – Weapon Level 09 – Fluorine Gas
+045 – Weapon Level 09 – Laser Gun
+046 – Weapon Level 10 – Trojan Bunny, The
+047 – Weapon Level 11 – Ebola Virus, The
+048 – Weapon Level 12 – Nuclear Warhead
+087 – 01 Dolla
+088 – 01 Dolla
+089 – 01 Dolla
+090 – 01 Dolla
+091 – 01 Dolla
+092 – 02 Dolla
+093 – 02 Dolla
+094 – 02 Dolla
+095 – 02 Dolla
+096 – 02 Dolla
+097 – 02 Dolla
+098 – 05 Dolla
+099 – 05 Dolla
+100 – 05 Dolla
+101 – 10 Dolla
+001 – Blue Congenial
+002 – Blue Gleeful
+003 – Blue Lumbering
+004 – Blue Sinister
+005 – Blue Timid
+006 – Green Congenial
+007 – Green Gleeful
+008 – Green Lumbering
+009 – Green Sinister
+010 – Green Timid
+011 – Orange Congenial
+012 – Orange Gleeful
+013 – Orange Lumbering
+014 – Orange Sinister
+015 – Orange Timid
+016 – Choose A Carrot
+017 – Choose A Carrot
+018 – Choose A Carrot
+019 – Choose A Carrot
+020 – Choose A Carrot
+021 – Choose 2 Carrots
+022 – Choose 2 Carrots
+023 – Choose 2 Carrots
+031 – Weapon Level 01 – Kitchen Whisk
+032 – Weapon Level 02 – Green Gelatin (with Evil Pineapple Chunks)
+033 – Weapon Level 03 – Ice Pick
+034 – Weapon Level 04 – Butcher’s Cleaver
+035 – Weapon Level 04 – Food Processor
+036 – Weapon Level 05 – Boiling Tar
+037 – Weapon Level 05 – Roaches
+038 – Weapon Level 06 – Bow & Arrow
+039 – Weapon Level 06 – Chain Saw
+040 – Weapon Level 07 – Guillotine
+041 – Weapon Level 07 – Sword
+042 – Weapon Level 08 – Flame Thrower
+043 – Weapon Level 08 – Torus Ring
+044 – Weapon Level 09 – Fluorine Gas
+045 – Weapon Level 09 – Laser Gun
+046 – Weapon Level 10 – Trojan Bunny, The
+047 – Weapon Level 11 – Ebola Virus, The
+048 – Weapon Level 12 – Nuclear Warhead
+087 – 01 Dolla
+088 – 01 Dolla
+089 – 01 Dolla
+090 – 01 Dolla
+091 – 01 Dolla
+092 – 02 Dolla
+093 – 02 Dolla
+094 – 02 Dolla
+095 – 02 Dolla
+096 – 02 Dolla
+097 – 02 Dolla
+098 – 05 Dolla
+099 – 05 Dolla
+100 – 05 Dolla
+101 – 10 Dolla

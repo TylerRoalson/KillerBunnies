@@ -1,0 +1,127 @@
+Welcome to Killer Bunnies!
+Are you ready to play? (1 - Yes, 2 - No)
+1
+Clear___________________________________Setting Up
+Kaballa's Market: [3 Dolla - for each Cabbage Card, 3 Dolla - for each Water Card, 10 Dolla - for each Carrot Card]
+Computer's Hand: [009 – Green Sinister, 022 – Choose 2 Carrots, 002 – Blue Gleeful, 001 – Blue Congenial, 012 – Orange Gleeful]
+Computer's Run Cards: [019 – Choose A Carrot, 011 – Orange Congenial]
+Player's Hand: [013 – Orange Lumbering, 016 – Choose A Carrot, 015 – Orange Timid, 023 – Choose 2 Carrots, 004 – Blue Sinister, 020 – Choose A Carrot, 021 – Choose 2 Carrots]
+Deck: [006 – Green Congenial, 003 – Blue Lumbering, 017 – Choose A Carrot, 014 – Orange Sinister, 010 – Green Timid, 008 – Green Lumbering, 018 – Choose A Carrot, 007 – Green Gleeful, 005 – Blue Timid]
+Which card do you want your top run card to be? (1 - first card, 7 - last card)
+5
+Player's Hand: [013 – Orange Lumbering, 016 – Choose A Carrot, 015 – Orange Timid, 023 – Choose 2 Carrots, 020 – Choose A Carrot, 021 – Choose 2 Carrots]
+Which card do you want your bottom run card to be? (1 - first card, 6 - last card)
+4
+
+Clear___________________________________Player Playing Bunny
+Player's Hand: [013 – Orange Lumbering, 016 – Choose A Carrot, 015 – Orange Timid, 020 – Choose A Carrot, 021 – Choose 2 Carrots]
+Player's Run Cards: [004 – Blue Sinister, 023 – Choose 2 Carrots]
+You played - 004 – Blue Sinister
+Your Bunnies: 004 – Blue Sinister
+You drew - 006 – Green Congenial
+Player's Hand: [013 – Orange Lumbering, 016 – Choose A Carrot, 015 – Orange Timid, 020 – Choose A Carrot, 021 – Choose 2 Carrots, 006 – Green Congenial]
+Which card do you want your bottom run card to be? (1 - first card, 6 - last card)
+5
+
+Clear___________________________________Computer Playing Bunny
+Computer's Hand: [013 – Orange Lumbering, 016 – Choose A Carrot, 015 – Orange Timid, 020 – Choose A Carrot, 021 – Choose 2 Carrots]
+Computer's Run Cards: [004 – Blue Sinister, 023 – Choose 2 Carrots]
+They played - 004 – Blue Sinister
+Their Bunnies: 004 – Blue Sinister
+They drew - 006 – Green Congenial
+Computer's Hand: [013 – Orange Lumbering, 016 – Choose A Carrot, 015 – Orange Timid, 020 – Choose A Carrot, 021 – Choose 2 Carrots, 006 – Green Congenial]
+They put - 021 – Choose 2 Carrots as their bottom run card
+
+Clear___________________________________Player Choosing Carrots
+Player's Bunnies: 004 – Blue Sinister
+Player's Hand: [013 – Orange Lumbering, 016 – Choose A Carrot, 015 – Orange Timid, 020 – Choose A Carrot, 006 – Green Congenial]
+Player's Run Cards: [023 – Choose 2 Carrots, 021 – Choose 2 Carrots]
+You played - 023 – Choose 2 Carrots
+You drew 103 – Carrot #01 – Tucker, 104 – Carrot #02 – Abu
+Your Carrots: Carrot #01 – Tucker, 104 – Carrot #02 – Abu
+You drew - 003 – Blue Lumbering
+Player's Hand: [013 – Orange Lumbering, 016 – Choose A Carrot, 015 – Orange Timid, 020 – Choose A Carrot, 006 – Green Congenial, 003 – Blue Lumbering]
+Which card do you want your bottom run card to be? (1 - first card, 6 - last card)
+2
+
+Clear___________________________________Computer Choosing Carrots
+Computer's Bunnies: 004 – Blue Sinister
+Computer's Hand: [013 – Orange Lumbering, 016 – Choose A Carrot, 015 – Orange Timid, 020 – Choose A Carrot, 006 – Green Congenial]
+Computer's Run Cards: [023 – Choose 2 Carrots, 021 – Choose 2 Carrots]
+They played - 023 – Choose 2 Carrots
+They drew 103 – Carrot #01 – Tucker, 104 – Carrot #02 – Abu
+Their Carrots: Carrot #01 – Tucker, 104 – Carrot #02 – Abu
+They drew - 003 – Blue Lumbering
+Computer's Hand: [013 – Orange Lumbering, 016 – Choose A Carrot, 015 – Orange Timid, 020 – Choose A Carrot, 006 – Green Congenial, 003 – Blue Lumbering]
+They put - 021 – Choose 2 Carrots as their bottom run card
+
+Clear___________________________________Game Over - Player And Computer Have Bunnies And Carrots
+Computer's Bunnies: 013 – Orange Lumbering
+Player's Bunnies: 004 – Blue Sinister
+Computer's Carrots: 110 – Carrot #08 – Seth
+Player's Carrots: 103 – Carrot #01 – Tucker, 104 – Carrot #02 – Abu, 105 – Carrot #03 – Hikaru, 106 – Carrot #04 – Flo, 107 – Carrot #05 – Remington, 108 – Carrot #06 – Butch, 109 – Carrot #07 – Presto
+1st Carrot Out: 103 – Carrot #01 – Tucker
+Computer's Carrots: 110 – Carrot #08 – Seth
+Player's Carrots: 104 – Carrot #02 – Abu, 105 – Carrot #03 – Hikaru, 106 – Carrot #04 – Flo, 107 – Carrot #05 – Remington, 108 – Carrot #06 – Butch, 109 – Carrot #07 – Presto
+2nd Carrot Out: 104 – Carrot #02 – Abu
+Computer's Carrots: 110 – Carrot #08 – Seth
+Player's Carrots: 105 – Carrot #03 – Hikaru, 106 – Carrot #04 – Flo, 107 – Carrot #05 – Remington, 108 – Carrot #06 – Butch, 109 – Carrot #07 – Presto
+3rd Carrot Out: 105 – Carrot #03 – Hikaru
+Computer's Carrots: 110 – Carrot #08 – Seth
+Player's Carrots: 106 – Carrot #04 – Flo, 107 – Carrot #05 – Remington, 108 – Carrot #06 – Butch, 109 – Carrot #07 – Presto
+4th Carrot Out: 106 – Carrot #04 – Flo
+Computer's Carrots: 110 – Carrot #08 – Seth
+Player's Carrots: 107 – Carrot #05 – Remington, 108 – Carrot #06 – Butch, 109 – Carrot #07 – Presto
+5th Carrot Out: 107 – Carrot #05 – Remington
+Computer's Carrots: 110 – Carrot #08 – Seth
+Player's Carrots: 108 – Carrot #06 – Butch, 109 – Carrot #07 – Presto
+6th Carrot Out: 108 – Carrot #06 – Butch
+Computer's Carrots: 110 – Carrot #08 – Seth
+Player's Carrots: 109 – Carrot #07 – Presto
+Last Carrot Out: 110 – Carrot #08 – Seth
+Winning Carrot: 109 – Carrot #07 – Presto
+Player Wins!
+
+Clear___________________________________Game Over - Player And Computer Have Carrots, Only Player Has Bunnies
+Computer's Bunnies:
+Player's Bunnies: 004 – Blue Sinister
+Player Gets Computer's Carrots
+Player's Carrots: 103 – Carrot #01 – Tucker, 104 – Carrot #02 – Abu, 105 – Carrot #03 – Hikaru, 106 – Carrot #04 – Flo, 107 – Carrot #05 – Remington, 108 – Carrot #06 – Butch, 109 – Carrot #07 – Presto, 110 – Carrot #08 – Seth
+1st Carrot Out: 103 – Carrot #01 – Tucker
+Player's Carrots: 104 – Carrot #02 – Abu, 105 – Carrot #03 – Hikaru, 106 – Carrot #04 – Flo, 107 – Carrot #05 – Remington, 108 – Carrot #06 – Butch, 109 – Carrot #07 – Presto, 110 – Carrot #08 – Seth
+2nd Carrot Out: 104 – Carrot #02 – Abu
+Player's Carrots: 105 – Carrot #03 – Hikaru, 106 – Carrot #04 – Flo, 107 – Carrot #05 – Remington, 108 – Carrot #06 – Butch, 109 – Carrot #07 – Presto, 110 – Carrot #08 – Seth
+3rd Carrot Out: 105 – Carrot #03 – Hikaru
+Player's Carrots: 106 – Carrot #04 – Flo, 107 – Carrot #05 – Remington, 108 – Carrot #06 – Butch, 109 – Carrot #07 – Presto, 110 – Carrot #08 – Seth
+4th Carrot Out: 106 – Carrot #04 – Flo
+Player's Carrots: 107 – Carrot #05 – Remington, 108 – Carrot #06 – Butch, 109 – Carrot #07 – Presto, 110 – Carrot #08 – Seth
+5th Carrot Out: 107 – Carrot #05 – Remington
+Player's Carrots: 108 – Carrot #06 – Butch, 109 – Carrot #07 – Presto, 110 – Carrot #08 – Seth
+6th Carrot Out: 108 – Carrot #06 – Butch
+Player's Carrots: 109 – Carrot #07 – Presto, 110 – Carrot #08 – Seth
+Last Carrot Out: 110 – Carrot #08 – Seth
+Winning Carrot: 109 – Carrot #07 – Presto
+Player Wins!
+
+Clear___________________________________Game Over - Player And Computer Have Bunnies, Only Player Has Carrots
+Computer's Bunnies: 013 – Orange Lumbering
+Player's Bunnies: 004 – Blue Sinister
+Computer's Carrots: 
+Player's Carrots: 103 – Carrot #01 – Tucker, 104 – Carrot #02 – Abu, 105 – Carrot #03 – Hikaru, 106 – Carrot #04 – Flo, 107 – Carrot #05 – Remington, 108 – Carrot #06 – Butch, 109 – Carrot #07 – Presto, 110 – Carrot #08 – Seth
+Computer Has No Carrots
+Player's Carrots: 103 – Carrot #01 – Tucker, 104 – Carrot #02 – Abu, 105 – Carrot #03 – Hikaru, 106 – Carrot #04 – Flo, 107 – Carrot #05 – Remington, 108 – Carrot #06 – Butch, 109 – Carrot #07 – Presto, 110 – Carrot #08 – Seth
+1st Carrot Out: 103 – Carrot #01 – Tucker
+Player's Carrots: 104 – Carrot #02 – Abu, 105 – Carrot #03 – Hikaru, 106 – Carrot #04 – Flo, 107 – Carrot #05 – Remington, 108 – Carrot #06 – Butch, 109 – Carrot #07 – Presto, 110 – Carrot #08 – Seth
+2nd Carrot Out: 104 – Carrot #02 – Abu
+Player's Carrots: 105 – Carrot #03 – Hikaru, 106 – Carrot #04 – Flo, 107 – Carrot #05 – Remington, 108 – Carrot #06 – Butch, 109 – Carrot #07 – Presto, 110 – Carrot #08 – Seth
+3rd Carrot Out: 105 – Carrot #03 – Hikaru
+Player's Carrots: 106 – Carrot #04 – Flo, 107 – Carrot #05 – Remington, 108 – Carrot #06 – Butch, 109 – Carrot #07 – Presto, 110 – Carrot #08 – Seth
+4th Carrot Out: 106 – Carrot #04 – Flo
+Player's Carrots: 107 – Carrot #05 – Remington, 108 – Carrot #06 – Butch, 109 – Carrot #07 – Presto, 110 – Carrot #08 – Seth
+5th Carrot Out: 107 – Carrot #05 – Remington
+Player's Carrots: 108 – Carrot #06 – Butch, 109 – Carrot #07 – Presto, 110 – Carrot #08 – Seth
+6th Carrot Out: 108 – Carrot #06 – Butch
+Player's Carrots: 109 – Carrot #07 – Presto, 110 – Carrot #08 – Seth
+Last Carrot Out: 110 – Carrot #08 – Seth
+Winning Carrot: 109 – Carrot #07 – Presto
+Player Wins!
